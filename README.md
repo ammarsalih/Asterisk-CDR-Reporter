@@ -8,7 +8,9 @@ Please feel free to download, install and/or modify the code and let me know you
 You can use the following CLI commands to download and install the script:
 
 cd /var/www/html
-wget http://raw.github.com/ammarsalih/Asterisk-CDR-Reporter/master/rpt.zip
+
+wget http://raw.github.com/ammarsalih/Asterisk-CDR-Reporter/master/rpt.zip 
+
 unzip rpt.tar.gz
 
 then point your internet browser to http://your-ip-address/cdr.htm
