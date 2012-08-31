@@ -11,7 +11,7 @@ cd /var/www/html
 
 wget http://raw.github.com/ammarsalih/Asterisk-CDR-Reporter/master/rpt.zip 
 
-unzip rpt.tar.gz
+unzip rpt.zip
 
 then point your internet browser to http://your-ip-address/cdr.htm
 
